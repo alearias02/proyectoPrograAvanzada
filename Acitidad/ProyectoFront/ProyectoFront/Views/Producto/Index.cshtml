@@ -1,0 +1,78 @@
+﻿@model IEnumerable<ProyectoFront.Models.Producto>
+
+<h2>Productos</h2>
+
+@* un boton para crear
+ *@
+<a name=""
+   id=""
+   class="btn btn-primary"
+   asp-action="Crear"
+   role="button">Crear</a>
+    
+    @*     public int Id { get; set; }
+
+        public string Nombre { get; set; }
+        public string Descripcion { get; set; }
+        public decimal Precio { get; set; }
+        public int Cantidad { get; set; } *@
+
+<div class="table-responsive">
+    <table class="table table-primary">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Descripcion</th>
+                <th scope="col">Precio</th>
+                <th scope="col">Cantidad</th>
+                <th scope="col">Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach( Producto itemDato in Model)
+            {
+                @* tr=fila *@
+                <tr class="">
+                    @* td= columnas *@
+                    <td>@itemDato.Id</td>
+                    <td>@itemDato.Nombre</td>
+                    <td>@itemDato.Descripcion</td>
+                    <td>@itemDato.Precio</td>
+                    <td>@itemDato.Cantidad</td>
+                    <td>
+                        <a name=""
+                           id=""
+                           class="btn btn-primary"
+                           asp-action="Editar"
+                           asp-route-id="@itemDato.Id"
+                           role="button">Editar</a>
+
+                        <a name=""
+                           id=""
+                           class="btn btn-danger"
+                           asp-action="Eliminar"
+                           asp-route-id="@itemDato.Id"
+                           role="button">Eliminar</a>
+                    </td>
+                </tr>
+                
+            }
+
+         @*    <tr class="">
+                <td scope="row">R1C1</td>
+                <td>R1C2</td>
+                <td>R1C3</td>
+                <td>R1C2</td>
+                <td>R1C3</td>
+            </tr>
+            <tr class="">
+                <td scope="row">Item</td>
+                <td>Item</td>
+                <td>Item</td>
+                <td>R1C2</td>
+                <td>R1C3</td>
+            </tr> *@
+        </tbody>
+    </table>
+</div>

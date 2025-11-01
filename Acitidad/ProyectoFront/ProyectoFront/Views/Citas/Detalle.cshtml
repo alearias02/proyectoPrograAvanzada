@@ -1,0 +1,22 @@
+﻿@model ProyectoFront.Models.CitaModel
+@{
+    var servicio = ViewBag.Servicio;
+}
+<h2>Detalle de la Cita</h2>
+
+<div style="width:50%;margin:0 auto;background-color:#fff;padding:20px;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,0.1);">
+    <p><b>Servicio:</b> @servicio.Nombre</p>
+    <p><b>Especialidad:</b> @(servicio.Especialidad == 1 ? "Medicina general" : servicio.Especialidad == 2 ? "Imagenología" : "Microbiología")</p>
+    <p><b>Especialista:</b> @servicio.Especialista</p>
+    <p><b>Clínica:</b> @servicio.Clinica</p>
+    <p><b>Monto Total:</b> ₡@Model.MontoTotal</p>
+    <p><b>Fecha de la Cita:</b> @Model.FechaDeLaCita.ToShortDateString()</p>
+    <hr />
+    <p><b>Nombre del paciente:</b> @Model.NombreDeLaPersona</p>
+    <p><b>Correo:</b> @Model.Correo</p>
+    <p><b>Teléfono:</b> @Model.Telefono</p>
+    <p><b>Dirección:</b> @Model.Direccion</p>
+    <div style="text-align:center;margin-top:20px;">
+        <a asp-action="Index">Volver</a>
+    </div>
+</div>

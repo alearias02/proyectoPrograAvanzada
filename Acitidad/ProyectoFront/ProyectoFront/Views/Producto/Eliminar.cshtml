@@ -1,0 +1,77 @@
+﻿@model ProyectoFront.Models.Producto
+<h2>Informacion del Dato a Eliminar</h2>
+
+<form asp-action="Eliminar">
+
+@* 
+    //public int Id { get; set; }
+
+    //public string Nombre { get; set; }
+    //public string Descripcion { get; set; }
+    //public decimal Precio { get; set; }
+    //public int Cantidad { get; set; } *@
+
+
+
+    <div class="mb-3">
+        <label for="" class="form-label">ID</label>
+        <input type="text" disabled
+               class="form-control"
+               asp-for="Id"
+               aria-describedby="helpId"
+               placeholder="Id" />
+    </div>
+
+
+
+    <div class="mb-3">
+        <label for="" class="form-label">Nombre</label>
+        <input type="text"
+               class="form-control"
+               asp-for="Nombre"
+               aria-describedby="helpId"
+               placeholder="Ingre su Nombre" />
+        <small id="helpId" class="form-text text-muted">Help text Nombre</small>
+    </div>
+
+    <div class="mb-3">
+        <label for="" class="form-label">Descripcion</label>
+        <input type="text"
+               class="form-control"
+               asp-for="Descripcion"
+               aria-describedby="helpId"
+               placeholder="Ingre su Descripcion" />
+        <small id="helpId" class="form-text text-muted">Help text Descripcion</small>
+    </div>
+
+    <div class="mb-3">
+        <label for="" class="form-label">Precio</label>
+        <input type="number"
+               class="form-control"
+               asp-for="Precio"
+               aria-describedby="helpId"
+               placeholder="Ingre su Precio" />
+        <small id="helpId" class="form-text text-muted">Help text Precio</small>
+    </div>
+
+
+    <div class="mb-3">
+        <label for="" class="form-label">Cantidad</label>
+        <input type="text"
+               class="form-control"
+               asp-for="Cantidad"
+               aria-describedby="helpId"
+               placeholder="Ingre su Cantidad" />
+        <small id="helpId" class="form-text text-muted">Help text Cantidad</small>
+    </div>
+
+    <button type="submit" 
+            class="btn btn-danger">
+        Eliminar
+    </button>
+    <a asp-action="Index"
+       class="btn btn-warning">
+        Volver
+    </a>
+
+</form>

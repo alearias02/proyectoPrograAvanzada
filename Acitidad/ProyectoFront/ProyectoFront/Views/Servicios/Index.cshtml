@@ -1,0 +1,59 @@
+﻿@model IEnumerable<ProyectoFront.Models.ServicioModel>
+@{
+    ViewData["Title"] = "Lista de Servicios";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="text-primary fw-bold">Servicios Registrados</h2>
+        <a asp-action="Crear" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i> Registrar nuevo servicio
+        </a>
+    </div>
+
+    <table class="table table-striped table-hover shadow-sm rounded">
+        <thead class="table-primary text-center">
+            <tr>
+                <th>Nombre</th>
+                <th>Descripción</th>
+                <th>Monto</th>
+                <th>IVA</th>
+                <th>Especialidad</th>
+                <th>Especialista</th>
+                <th>Clínica</th>
+                <th>Estado</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody class="text-center">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Nombre</td>
+                    <td>@item.Descripcion</td>
+                    <td>₡@item.Monto</td>
+                    <td>@(item.IVA * 100)%</td>
+                    <td>
+                        @(item.Especialidad == 1 ? "Medicina general" :
+                                            item.Especialidad == 2 ? "Imagenología" : "Microbiología")
+                </td>
+                <td>@item.Especialista</td>
+                <td>@item.Clinica</td>
+                <td>
+                    <span class="badge @(item.Estado ? "bg-success" : "bg-danger")">
+                        @(item.Estado ? "Activo" : "Inactivo")
+                    </span>
+                </td>
+                <td>
+                    <a asp-action="Editar" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm">
+                        <i class="bi bi-pencil-square"></i> Editar
+                    </a>
+                    <a asp-action="VerCitas" asp-route-id="@item.Id" class="btn btn-outline-secondary btn-sm">
+                        <i class="bi bi-calendar-event"></i> Ver citas
+                    </a>
+                </td>
+            </tr>
+                        }
+        </tbody>
+    </table>
+</div>
