@@ -24,8 +24,8 @@ namespace ProyectoFront.Data
         //PRIMARY KEY(`Id`));
         public DbSet<ProductoModel> Producto { get; set; }
         public DbSet<ServicioModel> SERVICIOS { get; set; }
-
         public DbSet<CitaModel> CITAS { get; set; }
+        public DbSet<LaboratoriosModel> Laboratorios { get; set; }
 
 
 
