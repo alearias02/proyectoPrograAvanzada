@@ -1,0 +1,35 @@
+﻿@model ProyectoFront.Models.UsuarioModel
+
+@{
+    ViewData["Title"] = "Registrar Usuario";
+}
+
+<h2 class="mb-4 text-center">Registrar Usuario</h2>
+
+<form asp-action="Crear" asp-controller="Usuarios" method="post" class="card p-4 shadow-sm">
+    <div class="mb-3">
+        <label class="form-label">Nombre</label>
+        <input asp-for="Nombre" class="form-control" placeholder="Ingrese el nombre" required />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Tipo</label>
+        <select asp-for="Tipo" class="form-select" required>
+            <option value="">Seleccione un tipo</option>
+            <option value="Estudiante">Estudiante</option>
+            <option value="Profesor">Profesor</option>
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Correo</label>
+        <input asp-for="Correo" type="email" class="form-control" placeholder="correo@ejemplo.com" required />
+    </div>
+
+    <div class="text-end">
+        <a asp-action="Index" asp-controller="Usuarios" class="btn btn-secondary me-2">Cancelar</a>
+        <button type="submit" class="btn btn-success">
+            <i class="bi bi-save"></i> Guardar
+        </button>
+    </div>
+</form>

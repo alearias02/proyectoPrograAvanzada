@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ProyectoFront.Models.Reservas>
+
+@{
+    ViewData["Title"] = "Reservas";
+}
+
+<h2>Lista de reservas disponibles</h2>
+
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-warning">@TempData["Mensaje"]</div>
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre de usuario</th>
+            <th>Nombre de laboratorio</th>
+            <th>Fecha de la reserva</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr>
+                <td>@r.Usuario?.Nombre</td>
+                <td>@r.Laboratorio?.Nombre</td>
+                <td>@r.FechaReserva.ToString("dd/MM/yyyy HH:mm")</td>
+
+            </tr>
+
+
+        }
+
+        <a class="btn btn-success btn-sm"
+           asp-action="Reservar"
+           asp-controller="Reservas"
+           role="button">
+            Reservar
+        </a>
+
+
+    </tbody>
+</table>
