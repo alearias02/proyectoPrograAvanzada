@@ -1,50 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\",
+  "WorkspaceRootPath": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\pac325\\proyectofront\\proyectofront\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\proyectoprograavanzada\\acitidad\\proyectofront\\proyectofront\\views\\usuarios\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\usuarios\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\pac325\\proyectofront\\proyectofront\\views\\servicios\\vercitas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\servicios\\vercitas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\proyectoprograavanzada\\acitidad\\proyectofront\\proyectofront\\views\\usuarios\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\usuarios\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\pac325\\proyectofront\\proyectofront\\views\\servicios\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\servicios\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\proyectoprograavanzada\\acitidad\\proyectofront\\proyectofront\\views\\usuarios\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\usuarios\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\pac325\\proyectofront\\proyectofront\\views\\servicios\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\servicios\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\proyectoprograavanzada\\acitidad\\proyectofront\\proyectofront\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\pac325\\proyectofront\\proyectofront\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\proyectoprograavanzada\\acitidad\\proyectofront\\proyectofront\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\pac325\\proyectofront\\proyectofront\\views\\citas\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\citas\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\pac325\\proyectofront\\proyectofront\\views\\citas\\reservar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\citas\\reservar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\pac325\\proyectofront\\proyectofront\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\pac325\\proyectofront\\proyectofront\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\pac325\\proyectofront\\proyectofront\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\proyectoprograavanzada\\acitidad\\proyectofront\\proyectofront\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\pac325\\proyectofront\\proyectofront\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|c:\\cuatri vi\\progra avanzada\\proyectoprograavanzada\\acitidad\\proyectofront\\proyectofront\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2504ADDD-0A78-4CF4-A5AA-580588ED772E}|ProyectoFront\\ProyectoFront.csproj|solutionrelative:proyectofront\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,143 +46,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Detalle.cshtml",
-              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Citas\\Detalle.cshtml",
-              "RelativeDocumentMoniker": "ProyectoFront\\Views\\Citas\\Detalle.cshtml",
-              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Citas\\Detalle.cshtml",
-              "RelativeToolTip": "ProyectoFront\\Views\\Citas\\Detalle.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Views\\Usuarios\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFront\\Views\\Usuarios\\Eliminar.cshtml",
+              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Views\\Usuarios\\Eliminar.cshtml",
+              "RelativeToolTip": "ProyectoFront\\Views\\Usuarios\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-29T05:29:25.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Reservar.cshtml",
-              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Citas\\Reservar.cshtml",
-              "RelativeDocumentMoniker": "ProyectoFront\\Views\\Citas\\Reservar.cshtml",
-              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Citas\\Reservar.cshtml",
-              "RelativeToolTip": "ProyectoFront\\Views\\Citas\\Reservar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-29T05:29:15.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Servicios\\Editar.cshtml",
-              "RelativeDocumentMoniker": "ProyectoFront\\Views\\Servicios\\Editar.cshtml",
-              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Servicios\\Editar.cshtml",
-              "RelativeToolTip": "ProyectoFront\\Views\\Servicios\\Editar.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-29T05:27:15.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Servicios\\Crear.cshtml",
-              "RelativeDocumentMoniker": "ProyectoFront\\Views\\Servicios\\Crear.cshtml",
-              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Servicios\\Crear.cshtml",
-              "RelativeToolTip": "ProyectoFront\\Views\\Servicios\\Crear.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-29T05:27:06.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Servicios\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProyectoFront\\Views\\Servicios\\Index.cshtml",
-              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Servicios\\Index.cshtml",
-              "RelativeToolTip": "ProyectoFront\\Views\\Servicios\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-29T05:26:46.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Citas\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProyectoFront\\Views\\Citas\\Index.cshtml",
-              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Citas\\Index.cshtml",
-              "RelativeToolTip": "ProyectoFront\\Views\\Citas\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-29T05:08:30.501Z",
+              "WhenOpened": "2025-11-01T01:17:22.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CitasController.cs",
-              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Controllers\\CitasController.cs",
-              "RelativeDocumentMoniker": "ProyectoFront\\Controllers\\CitasController.cs",
-              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Controllers\\CitasController.cs",
-              "RelativeToolTip": "ProyectoFront\\Controllers\\CitasController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAIA8wDgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T05:07:18.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VerCitas.cshtml",
-              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Servicios\\VerCitas.cshtml",
-              "RelativeDocumentMoniker": "ProyectoFront\\Views\\Servicios\\VerCitas.cshtml",
-              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Servicios\\VerCitas.cshtml",
-              "RelativeToolTip": "ProyectoFront\\Views\\Servicios\\VerCitas.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwC4AAAAAAAAAAAAAAA==",
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Views\\Usuarios\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFront\\Views\\Usuarios\\Editar.cshtml",
+              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Views\\Usuarios\\Editar.cshtml",
+              "RelativeToolTip": "ProyectoFront\\Views\\Usuarios\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-25T02:24:22.324Z",
+              "WhenOpened": "2025-11-01T01:12:55.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Views\\Usuarios\\Crear.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFront\\Views\\Usuarios\\Crear.cshtml",
+              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Views\\Usuarios\\Crear.cshtml",
+              "RelativeToolTip": "ProyectoFront\\Views\\Usuarios\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T01:12:29.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFront\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "ProyectoFront\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T01:08:47.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ProyectoFront\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ProyectoFront\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T01:01:24.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoFront\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProyectoFront\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T00:55:59.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProyectoFront\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ProyectoFront\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-27T03:07:18.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "ProyectoFront\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "ProyectoFront\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T02:29:34.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServiciosController.cs",
-              "DocumentMoniker": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Controllers\\ServiciosController.cs",
-              "RelativeDocumentMoniker": "ProyectoFront\\Controllers\\ServiciosController.cs",
-              "ToolTip": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\Controllers\\ServiciosController.cs",
-              "RelativeToolTip": "ProyectoFront\\Controllers\\ServiciosController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAADwv1kAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T00:32:50.852Z",
+              "WhenOpened": "2025-10-27T03:07:18.65Z",
               "EditorCaption": ""
             }
           ]

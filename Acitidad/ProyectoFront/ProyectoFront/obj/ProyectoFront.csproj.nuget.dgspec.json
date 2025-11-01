@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\ProyectoFront.csproj": {}
+    "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\ProyectoFront.csproj": {}
   },
   "projects": {
-    "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\ProyectoFront.csproj": {
+    "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\ProyectoFront.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\ProyectoFront.csproj",
+        "projectUniqueName": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\ProyectoFront.csproj",
         "projectName": "ProyectoFront",
-        "projectPath": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\ProyectoFront.csproj",
+        "projectPath": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\ProyectoFront.csproj",
         "packagesPath": "C:\\Users\\Soza\\.nuget\\packages\\",
-        "outputPath": "C:\\Cuatri VI\\Progra Avanzada\\PAC325\\ProyectoFront\\ProyectoFront\\obj\\",
+        "outputPath": "C:\\Cuatri VI\\Progra Avanzada\\proyectoPrograAvanzada\\Acitidad\\ProyectoFront\\ProyectoFront\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

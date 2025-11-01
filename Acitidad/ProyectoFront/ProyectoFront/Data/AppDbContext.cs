@@ -27,7 +27,7 @@ namespace ProyectoFront.Data
 
         public DbSet<CitaModel> CITAS { get; set; }
 
-
+        public DbSet<UsuarioModel> UsuarioActivity { get; set; }
 
     }
 }

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ProyectoFront.Models.UsuarioModel>
+
+@{
+    ViewData["Title"] = "Usuarios registrados";
+}
+
+<h2 class="mb-4 text-center">Usuarios registrados</h2>
+
+<div class="text-end mb-3">
+    <a asp-action="Crear" asp-controller="Usuarios" class="btn btn-primary">
+        <i class="bi bi-plus-circle"></i> Nuevo Usuario
+    </a>
+</div>
+
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-info">@TempData["Mensaje"]</div>
+}
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Tipo</th>
+            <th>Correo</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.Id</td>
+                <td>@u.Nombre</td>
+                <td>@u.Tipo</td>
+                <td>@u.Correo</td>
+                <td>
+                    <a asp-action="Editar" asp-controller="Usuarios" asp-route-id="@u.Id" class="btn btn-sm btn-warning">
+                        <i class="bi bi-pencil-square"></i> Editar
+                    </a>
+                    <a asp-action="Eliminar" asp-controller="Usuarios" asp-route-id="@u.Id" class="btn btn-sm btn-danger">
+                        <i class="bi bi-trash"></i> Eliminar
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
