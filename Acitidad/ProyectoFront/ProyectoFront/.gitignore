@@ -1,0 +1,36 @@
+﻿# Archivos de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vscode/
+
+# Salidas de compilación
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+*.dbcache
+*.dtbcache.v2
+*.ide/
+*.cache/
+*.pdb
+*.log
+
+# Archivos del sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Paquetes
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Archivos de configuración local
+launchSettings.json
+appsettings.Development.json
